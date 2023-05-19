@@ -1,0 +1,303 @@
+{
+  "project_info": {
+    "project_number": "317109827782",
+    "firebase_url": "https://codecanyon-b3320.firebaseio.com",
+    "project_id": "codecanyon-b3320",
+    "storage_bucket": "codecanyon-b3320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:5a9fcc1dcd64c83efbbfc7",
+        "android_client_info": {
+          "package_name": "codecanyon.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-qun59452msr3s98mfeppcdac1s3m8on8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codecanyon.grocery",
+            "certificate_hash": "6868ee6bd51ae56c60f812bcefd18363b6c3054c"
+          }
+        },
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:fa9c029d5392cd20fbbfc7",
+        "android_client_info": {
+          "package_name": "codecanyon.serviceman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:2d43688c1dfe9dacfbbfc7",
+        "android_client_info": {
+          "package_name": "codecanyon.servpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:e424e4e1d0d4ca17fbbfc7",
+        "android_client_info": {
+          "package_name": "com.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-os90plvdeoet9m58l0ujg4b7v0urukan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryboy",
+            "certificate_hash": "6868ee6bd51ae56c60f812bcefd18363b6c3054c"
+          }
+        },
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:34fcaf3f4d4181b9fbbfc7",
+        "android_client_info": {
+          "package_name": "com.example.groccery_store_2_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:1c5f2d214c2aabb6fbbfc7",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-qjhl9lr68b1eqmm0hv1nrpfkctiepp9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooddeliveryboy",
+            "certificate_hash": "ffc218c09c9d84f259c7282766d5dab53acaebb9"
+          }
+        },
+        {
+          "client_id": "317109827782-t0o4l0o81bfhkjssvj9hadqhmqhl65hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooddeliveryboy",
+            "certificate_hash": "6868ee6bd51ae56c60f812bcefd18363b6c3054c"
+          }
+        },
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317109827782:android:93a82ce8a23ac7f9fbbfc7",
+        "android_client_info": {
+          "package_name": "com.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317109827782-cj31nevp4tdt1oe14dlnshlaoolnhepi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodorder",
+            "certificate_hash": "6868ee6bd51ae56c60f812bcefd18363b6c3054c"
+          }
+        },
+        {
+          "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX7YkegmGlrWErXx3bUmSscdk8N2ZuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317109827782-oi8ijahu0hs2ec2g9fatfs555lt7aoab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317109827782-0nbqi9sc1rsj8j6cqi4f7dkhle40c8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serviceBooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
